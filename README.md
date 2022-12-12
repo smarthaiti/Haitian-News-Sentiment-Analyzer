@@ -4,4 +4,4 @@ Creating a tool to analyze the cumulative sentiment from articles that match a q
 
 This notebook uses the name of the late president "Jovenel Moise" as a demo and shows a sharp decline in sentiment across news sources on January 1st, 2021. It also outputs a bar graph showing the degree to which each news source published either positive or negative articles during the chosen timeframe. 
 
-The use cases of this kind of tool include marketing, investigative journalism, intelligence and counterintelligence, among other use cases.
+Excellent use cases for this kind of tool include marketing, investigative journalism, and intelligence and counterintelligence.
